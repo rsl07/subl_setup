@@ -1,0 +1,13 @@
+{
+	"cmd"		: ["/bin/bash", "$file"],
+	"selector"	: "source.shell",	
+	// "shell"     : "bash",
+
+    "linux": {
+        "env": {
+            // Manually set where a Python module looks when it uses shared object
+            // files or static libraries
+            "LD_LIBRARY_PATH": "/home/d51680/lionel"
+        }
+
+

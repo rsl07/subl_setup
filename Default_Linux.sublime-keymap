@@ -1,0 +1,36 @@
+[
+
+	// Settings 
+
+	{ "keys": ["ctrl+,"], "command": "edit_settings", "args":
+	    {
+	        "base_file": "${packages}/Default/Preferences.sublime-settings",
+	        "default": "// Settings in here override those in \"Default/Preferences.sublime-settings\",\n// and are overridden in turn by syntax-specific settings.\n{\n\t$0\n}\n"
+	    }
+	},
+
+	{ "keys": ["ctrl+;"], "command": "edit_settings", "args":
+	    {
+	        "base_file": "${packages}/User/Default (Linux).sublime-keymap",
+	        "default": "// Settings in here override those in \"Default/Preferences.sublime-settings\",\n// and are overridden in turn by syntax-specific settings.\n{\n\t$0\n}\n"
+	    }
+	},
+
+
+	// Comment
+
+	{ "keys": ["ctrl+²"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+²"], "command": "toggle_comment", "args": { "block": true } },
+
+
+
+	// Text Navigation
+
+
+	// File Navigation
+
+
+	// Search and Replace
+
+	
+]

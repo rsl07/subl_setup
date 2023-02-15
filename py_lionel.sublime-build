@@ -1,0 +1,17 @@
+{
+    "shell_cmd": "/home/rsl/.conda/envs/py_lionel/bin/python -OO -u \"$file\"",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python.3",
+
+    "syntax": "Packages/Python 3/Python3.tmLanguage",
+
+    "quiet" : true,
+
+     "env": 
+     {
+        "PYTHONIOENCODING": "utf-8",
+        "PYTHONPATH": "$PATH:$PYTHON_PATH:/home/rsl/code/lionel"
+    }
+
+
+}
