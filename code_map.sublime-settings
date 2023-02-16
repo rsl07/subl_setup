@@ -1,0 +1,173 @@
+{
+
+	"universal": {
+                "regex":
+                [
+                    [
+                        "^(?!if)\\S+? \\S+?[\\(\\[\\{].*?:",
+                        "[\\(\\[\\{].*$",
+                        "",
+                        false
+                    ]
+                ],
+                "indent": 2,
+                "obligatory indent": false,
+                "empty line in map before": "class",
+                "line numbers before": false,
+                "prefix": "",
+                "suffix": "",
+                "syntax": "Packages/Python 3/Python3.tmLanguage"
+            },
+    "text": {
+                "regex":
+                [
+                    [
+                        "",
+                        "",
+                        "",
+                        false
+                    ]
+                ],
+                "indent": 2,
+                "obligatory indent": true,
+                "empty line in map before": "",
+                "line numbers before": true,
+                "prefix": "",
+                "suffix": "",
+                "syntax": "Packages/Text/Plain text.tmLanguage"
+            },
+    "python": {
+                "regex":
+                [
+                    [
+                        "^(class |def ).*$",
+                        "[(:].*$",
+                        "",
+                        false
+                    ]
+                ],
+                "indent": 4,
+                "obligatory indent": false,
+                "empty line in map before": "class",
+                "line numbers before": false,
+                "prefix": "",
+                "suffix": "()",
+                "syntax": "Packages/Python 3/Python3.tmLanguage"
+            },
+    "ruby": {
+                "regex":
+                [
+                    [
+                        "^(class |def ).*$",
+                        "[(:].*$",
+                        "",
+                        false
+                    ]
+                ],
+                "indent": 2,
+                "obligatory indent": false,
+                "empty line in map before": "class",
+                "line numbers before": false,
+                "prefix": "",
+                "suffix": "()",
+                "syntax": "Packages/Ruby/Ruby.tmLanguage"
+            },
+    "Settings": {
+                "regex":
+                [
+                    [
+                        "^\".+\":",
+                        "\"(.+)\":",
+                        "\\g<1>:",
+                        false
+                    ],
+                    [
+                        ": +true,",
+                        "true",
+                        "True",
+                        true
+                    ],
+                    [
+                        ": +false,",
+                        "false",
+                        "False",
+                        true
+                    ],
+                    [
+                        ": +\\[$",
+                        "\\[",
+                        "[]",
+                        true
+                    ],
+                    [
+                        ": +\\{$",
+                        "\\{",
+                        "{}",
+                        true
+                    ],
+                ],
+                "indent": 0,
+                "obligatory indent": false,
+                "empty line in map before": "",
+                "line numbers before": false,
+                "prefix": "",
+                "suffix": "",
+                "syntax": "Packages/Python/Python.tmLanguage"
+            },
+    "Syntax": {
+                "regex":
+                [
+                    [
+                        "^(contexts:|\\w+:)$",
+                        "",
+                        "",
+                        false
+                    ]
+                ],
+                "indent": 2,
+                "obligatory indent": false,
+                "empty line in map before": "",
+                "line numbers before": false,
+                "prefix": "",
+                "suffix": "",
+                "syntax": "Packages/YAML/YAML.sublime-syntax"
+            },
+    "Ini": {
+                "regex":
+                [
+                    [
+                        "^\\[.*$",
+                        "",
+                        "",
+                        false
+                    ]
+                ],
+                "indent": 0,
+                "obligatory indent": false,
+                "empty line in map before": "class",
+                "line numbers before": false,
+                "prefix": "",
+                "suffix": "",
+                "syntax": "Packages/Text/Plain text.tmLanguage"
+            },
+      "Rexx"  : {
+                "regex":
+                [
+                    [
+                        "^(?!')(\\S+:)\\s.*$",
+                        "[(:].*$",
+                        "",
+                        false
+                    ]
+                ],
+                "indent": 4,
+                "obligatory indent": false,
+                "empty line in map before": "",
+                "line numbers before": false,
+                "prefix": "",
+                "suffix": "()",
+                "syntax": "Packages/Text/Plain text.tmLanguage"
+    }
+	
+}
+
