@@ -10,7 +10,8 @@
      "env": 
      {
         "PYTHONIOENCODING": "utf-8",
-        "PYTHONPATH": "$PATH:$PYTHON_PATH:/home/rsl/code/lionel"
+        "PYTHONPATH": "$PATH:$PYTHON_PATH:/home/rsl/code/lionel",
+        "PYTHONWARNINGS":"ignore"
     }
 
 
