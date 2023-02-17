@@ -1,5 +1,5 @@
 {
-    "shell_cmd": "/home/rsl/.conda/envs/py_lionel/bin/python -OO -u \"$file\"",
+    "shell_cmd": "/home/d51680/logiciel/anaconda/envs/py_lionel/bin/python3.7 -OO -u \"$file\"",
     "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
     "selector": "source.python.3",
 
@@ -10,7 +10,7 @@
      "env": 
      {
         "PYTHONIOENCODING": "utf-8",
-        "PYTHONPATH": "$PATH:$PYTHON_PATH:/home/rsl/code/lionel",
+        "PYTHONPATH": "$PATH:$PYTHON_PATH:/home/d51680/code/lionel",
         "PYTHONWARNINGS":"ignore"
     }
 
