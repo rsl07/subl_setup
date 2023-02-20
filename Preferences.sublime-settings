@@ -190,9 +190,6 @@
 	"remember_full_screen": false,
 	"remember_workspace": true,
 	"reveal_tabs_with_timeout": false,
-	"rulers":
-	[
-	],
 	"save_on_focus_lost": false,
 	"scroll_context_lines": 0,
 	"scroll_past_end": true,
