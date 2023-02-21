@@ -2,5 +2,10 @@
 	"extensions":
 	[
 		"md"
-	]
+	],
+
+	"word_wrap": true,
+	"wrap_width": 100,
+
+	"rulers": [100],
 }
