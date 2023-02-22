@@ -1,5 +1,5 @@
 {
-    "shell_cmd": "/home/d51680/logiciel/anaconda/envs/py_lionel/bin/python3.7 -OO -u \"$file\"",
+    "shell_cmd": "/home/d51680/Logiciel/anaconda3/envs/py_lionel/bin/python3.7 -OO -u \"$file\"",
     "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
     "selector": "source.python.3",
 

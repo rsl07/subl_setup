@@ -62,7 +62,7 @@
 	"close_find_after_find_all": true,
 	"close_find_after_replace_all": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Neon.sublime-color-scheme",
+	"color_scheme": "Packages/Neon Color Scheme/Neon.sublime-color-scheme",
 	"console_max_history_lines": 3000,
 	"control_character_style": "hex",
 	"copy_with_empty_selection": true,
@@ -129,7 +129,7 @@
 	"font_options":
 	[
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"git_diff_target": "index",
 	"gutter": true,
 	"hardware_acceleration": "none",
