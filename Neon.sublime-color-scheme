@@ -1745,19 +1745,19 @@
         {
             "name": "List",
             "scope": "markup.list punctuation.definition.list_item",
-            "foreground": "#000000",
-            "background": "#FF01C3"
+            // "foreground": "#000000",
+            // "background": "#FF01C3"
         },
         {
             "name": "Bold Markup",
             "scope": "markup.bold",
-            "foreground": "#FF9303",
+            "foreground": "#06FF05",
             "font_style": "bold"
         },
         {
             "name": "Italic Markup",
             "scope": "markup.italic",
-            "foreground": "#FFF103",
+            "foreground": "#01FFFD",
             "font_style": "italic"
         },
         {

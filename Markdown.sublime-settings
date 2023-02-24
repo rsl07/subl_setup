@@ -1,8 +1,12 @@
 {
-
+	"extensions":
+	[
+		"md","note"
+	],
+	"rulers":
+	[
+		100
+	],
 	"word_wrap": "true",
-	"wrap_width": 100,
-
-	"rulers":[100],
-
+	"wrap_width": 100
 }
