@@ -3,13 +3,12 @@
 	[
 		"md",
 		"note",
-		"notes",
-		"txt"
+		"notes"
 	],
 	"rulers":
-	[
-		80
+	[	
+		
 	],
 	"word_wrap": "true",
-	"wrap_width": 80
+	"wrap_width": 100
 }
