@@ -16,6 +16,17 @@
 	    }
 	},
 
+
+	{ "keys": ["ctrl+!"], "command": "edit_settings", "args":
+	    {
+	        "base_file": "${packages}/Neon Color Scheme/Neon.sublime-color-scheme",
+	        "default": "// Settings in here override those in \"Default/Preferences.sublime-settings\",\n// and are overridden in turn by syntax-specific settings.\n{\n\t$0\n}\n"
+	    }
+	},
+
+
+
+
 	{ "keys": ["ctrl+<"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
 
 
