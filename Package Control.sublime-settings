@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"CodeMap",
+		"LaTeXTools",
+		"Neon Color Scheme",
+		"Origami",
+		"Outline",
+		"Package Control",
+		"PackageResourceViewer",
+		"Python 3",
+		"rainbow_csv",
+		"SublimeLinter",
+		"Theme - Midnight",
+	],
+}
