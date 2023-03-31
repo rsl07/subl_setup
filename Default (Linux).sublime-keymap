@@ -30,7 +30,6 @@
 	{ "keys": ["ctrl+<"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
 
 
-
 	// Comment
  
 	{ "keys": ["shift+enter"], "command": "toggle_comment", "args": { "block": false } },
@@ -40,6 +39,9 @@
 
 	{ "keys": ["ctrl+a"], "command": "move_to", "args": {"to": "bol", "extend": false} },
 	{ "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+
+	{ "keys": ["super+a"], "command": "move_to", "args": {"to": "bof", "extend": false} },
+	{ "keys": ["super+e"], "command": "move_to", "args": {"to": "eof", "extend": false} },
 
 
 	// File Navigation
