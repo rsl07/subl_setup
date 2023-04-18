@@ -1,4 +1,12 @@
-// These settings override both User and Default settings for the CSV (Rainbow) syntax
 {
+	"extensions":
+	[
+		".csv",
+		".out",
+		".dat",
+		".in",
+		"out",
+		"dat"
+	],
 	"hide_minimap": "true"
 }

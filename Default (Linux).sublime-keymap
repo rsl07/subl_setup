@@ -34,6 +34,13 @@
  
 	{ "keys": ["shift+enter"], "command": "toggle_comment", "args": { "block": false } },
 
+
+	// Fold
+
+	{ "keys": ["altgr+enter"], "command": "fold" },
+	{ "keys": ["altgr+shift+enter"], "command": "unfold" },
+
+
 	
 	// Text Navigation
 
@@ -82,7 +89,7 @@
 
 
 	{
-		"keys": ["ctrl+f2"],
+		"keys": ["ctrl+shift+f2"],
 		"command": "set_layout",
 		"args":
 		{
@@ -111,7 +118,7 @@
 
 
 	{
-		"keys": ["ctrl+f1"],
+		"keys": ["ctrl+shift+f1"],
 		"command": "set_layout",
 		"args":
 		{

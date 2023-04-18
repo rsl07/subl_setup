@@ -1,5 +1,8 @@
 {
 	"extensions":
 	[
-	]
+	],
+	"hide_minimap": "true"
+
+
 }

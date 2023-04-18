@@ -7,7 +7,7 @@
 	],
 	"installed_packages":
 	[
-		"Anaconda",
+		"Auto Refresh",
 		"CodeMap",
 		"LaTeXTools",
 		"MarkdownLivePreview",
@@ -19,8 +19,6 @@
 		"PackageResourceViewer",
 		"Python 3",
 		"rainbow_csv",
-		"SublimeLinter",
-		"SublimeLinter-flake8",
 		"Theme - Midnight"
 	]
 }

@@ -3,14 +3,14 @@
     "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
     "selector": "source.python.3",
 
-    "syntax": "Packages/Python 3/Python3.tmLanguage",
+    "syntax": "Packages/Markdown/Markdown.sublime-syntax",
 
     "quiet" : true,
 
      "env": 
      {
         "PYTHONIOENCODING": "utf-8",
-        "PYTHONPATH": "$PATH:$PYTHON_PATH:/home/d51680/code/lionel",
+        "PYTHONPATH": "/home/d51680/Code/lionel:/home/d51680/Code/lionel/module:/home/d51680/Code/lionel/module/func:/home/d51680/Code/charles",
         "PYTHONWARNINGS":"ignore"
     }
 
