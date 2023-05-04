@@ -40,12 +40,17 @@ class md_mapper():
                     continue
 
                 if line.startswith("#"):
-                    max = 20
-                    line = line[0:max]+'...'
-                    for i in range(0, (max+3) - len(line)):
+                    max = 26
+
+                    if len(line)>max :
+                        line = line[0:max]
+
+                    for i in range(0, (max) - len(line)):
                         line = line + ' '
 
-                    map = map + line + '    :' + str(line_num)+'\n'
+                    map = map + line + ':' + str(line_num)+'\n'
+
+
 
         except Exception as err:
             print (err)

@@ -52,7 +52,7 @@
                 "line numbers before": false,
                 "prefix": "",
                 "suffix": "()",
-                "syntax": "Packages/Python 3/Python3.tmLanguage"
+                "syntax": "Packages/Python 3/Python3.tmLanguage",
             },
     "ruby": {
                 "regex":

@@ -10,7 +10,7 @@
      "env": 
      {
         "PYTHONIOENCODING": "utf-8",
-        "PYTHONPATH": "/home/d51680/Code/lionel:/home/d51680/Code/lionel/module:/home/d51680/Code/lionel/module/func:/home/d51680/Code/charles",
+        "PYTHONPATH": "/home/d51680/Code/lionel:/home/d51680/Code/lionel/module:/home/d51680/Code/lionel/module/func:/home/d51680/Code/charles:/home/d51680/Code/charles/calib_hm_el_in/",
         "PYTHONWARNINGS":"ignore"
     }
 

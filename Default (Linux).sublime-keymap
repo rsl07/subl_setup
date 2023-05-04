@@ -37,8 +37,10 @@
 
 	// Fold
 
-	{ "keys": ["altgr+enter"], "command": "fold" },
-	{ "keys": ["altgr+shift+enter"], "command": "unfold" },
+	{ "keys": ["f12"], "command": "fold" },
+	{ "keys": ["shift+f12"], "command": "unfold" },
+	{ "keys": ["ctrl+f12"], "command": "unfold_all" },
+
 
 
 	
@@ -80,12 +82,15 @@
 	{ "keys": ["f7"], "command": "" },
 
 
+	{ "keys" : ["shift+f5"], "command" : "show_panel" , "args" : {"panel": "output.exec"}},
+
+
 	// Bookmarks
 
 		{ "keys": ["f10"], "command": "next_bookmark" },
 		{ "keys": ["f8"], "command": "prev_bookmark" },
 		{ "keys": ["f9"], "command": "toggle_bookmark" },
-		{ "keys": ["ctrl+f9"], "command": "clear_bookmarks" },
+		{ "keys": ["shift+f9"], "command": "clear_bookmarks" },
 
 
 	{
