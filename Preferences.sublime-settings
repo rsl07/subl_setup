@@ -129,7 +129,7 @@
 	"font_options":
 	[
 	],
-	"font_size": 11,
+	"font_size": 12,
 	"git_diff_target": "index",
 	"gutter": true,
 	"hardware_acceleration": "none",
@@ -181,7 +181,7 @@
 	"mini_diff": false,
 	"move_to_limit_on_up_down": false,
 	"native_tabs": "system",
-	"open_files_in_new_window": "never",
+	"open_files_in_new_window": "true",
 	"overlay_scroll_bars": "system",
 	"popup_shadows": true,
 	"preview_on_click": true,

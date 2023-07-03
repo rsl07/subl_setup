@@ -8,6 +8,8 @@
 		"Anaconda",
 		"CodeMap",
 		"LaTeXTools",
+		"Markdown Table Formatter",
+		"MarkdownPreview",
 		"Neon Color Scheme",
 		"Origami",
 		"Outline",
@@ -15,7 +17,6 @@
 		"PackageResourceViewer",
 		"Python 3",
 		"rainbow_csv",
-		"SublimeLinter",
 		"Theme - Midnight",
 	],
 }

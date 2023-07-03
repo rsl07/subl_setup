@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+\begin{equation}
+\begin{array}{ll}
+     	${1:array}
+\end{array}
+\end{equation}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>!arr</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>

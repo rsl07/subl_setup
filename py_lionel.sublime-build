@@ -1,16 +1,16 @@
 {
-    "shell_cmd": "/home/d51680/Logiciel/anaconda3/envs/py_lionel/bin/python3.7 -OO -u \"$file\"",
+    "shell_cmd": "/home/rsl/Logiciel/anaconda3/envs/py_lionel/bin/python3.7 -OO -u \"$file\"",
     "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
     "selector": "source.python.3",
 
-    "syntax": "Packages/Python 3/Python3.tmLanguage",
+    "syntax": "Packages/Markdown/Markdown.sublime-syntax",
 
     "quiet" : true,
 
      "env": 
      {
         "PYTHONIOENCODING": "utf-8",
-        "PYTHONPATH": "$PATH:$PYTHON_PATH:/home/d51680/code/lionel",
+        "PYTHONPATH": "/home/rsl/Code/lionel:/home/rsl/Code/lionel/module:/home/rsl/Code/lionel/module/func:/home/rsl/Code/charles:/home/rsl/Code/charles/calib_hm_el_in/",
         "PYTHONWARNINGS":"ignore"
     }
 
