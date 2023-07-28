@@ -6,10 +6,13 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"AutoFoldCode",
+		"Better Bookmarks",
 		"CodeMap",
 		"LaTeXTools",
 		"Markdown Table Formatter",
 		"MarkdownPreview",
+		"MaxPane",
 		"Neon Color Scheme",
 		"Origami",
 		"Outline",

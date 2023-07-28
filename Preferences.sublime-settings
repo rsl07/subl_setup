@@ -129,7 +129,7 @@
 	"font_options":
 	[
 	],
-	"font_size": 12,
+	"font_size": 13,
 	"git_diff_target": "index",
 	"gutter": true,
 	"hardware_acceleration": "none",
@@ -141,7 +141,8 @@
 	"highlight_line": false,
 	"highlight_line_number": true,
 	"highlight_modified_tabs": false,
-	"hot_exit": "always",
+	"hot_exit": false,
+	"remember_open_files":false,
 	"ignored_packages":
 	[
 		"Python",
@@ -187,7 +188,7 @@
 	"preview_on_click": true,
 	"relative_line_numbers": false,
 	"reload_file_on_change": true,
-	"remember_full_screen": false,
+	"remember_full_screen": true,
 	"remember_workspace": true,
 	"reveal_tabs_with_timeout": false,
 	"save_on_focus_lost": false,
@@ -236,7 +237,7 @@
 	"vintage_start_in_command_mode": false,
 	"vintage_use_clipboard": false,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
-	"word_wrap": "false",
+	"word_wrap": "true",
 	"wrap_width": 80,
 	"wrap_width_style": "constant",
 }

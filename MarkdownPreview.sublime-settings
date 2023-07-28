@@ -1,4 +1,7 @@
 {
     "build_action": "browser",
 
+    "enable_mathjax": true,
+
+
 }

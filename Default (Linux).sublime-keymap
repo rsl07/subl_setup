@@ -1,5 +1,6 @@
 [	
 
+
 	// Settings 
 
 	{ "keys": ["ctrl+,"], "command": "edit_settings", "args":
@@ -65,6 +66,11 @@
 	{ "keys": ["ctrl+u"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
 
 	{ "keys": ["ctrl+l"], "command": "expand_selection", "args": {"to": "line"} },
+
+
+	// Side bar
+
+	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" },
 
 
 	// Build

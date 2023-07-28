@@ -1,14 +1,15 @@
 <snippet>
 	<content><![CDATA[
-\begin{figure}[ht!]
-     \centering 
-     \includegraphics[width=10cm]${1:}
-     \caption{${2:caption}}
-     \label{${3:label}}
-\end{figure}
+\begin{block}{${1:blockname}}
+\begin{itemize}
+  \item ${2:item1}
+  \item ${3:item2}
+  \item ${4:item3}
+\end{itemize}
+\end{block}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>!fig</tabTrigger>
+	<tabTrigger>!blo</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.tex.latex</scope>
 </snippet>
