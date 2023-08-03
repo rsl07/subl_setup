@@ -1,6 +1,6 @@
 {
     "shell_cmd": "pandoc -o \"${file_base_name}.pdf\" \"$file\" --template eisvogel --listings && evince \"${file_base_name}.pdf\"",
-    "selector": "text.html.markdown",
+    "selector": "source.md",
 }
 
 
