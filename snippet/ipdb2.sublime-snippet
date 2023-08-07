@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+# debug ------------------------------------------------------------------
+rsl.locals_object(locals()); ipdb.set_trace()                            #
+# ------------------------------------------------------------------------
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>!dd</tabTrigger>
+	<scope>source.python</scope>
+</snippet>

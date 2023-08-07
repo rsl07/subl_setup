@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+# -----------------------------------------------------------------------------
+# ${1:subsection}
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>!ss</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
