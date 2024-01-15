@@ -1,0 +1,5 @@
+{
+    "shell_cmd": "pandoc -o \"${file_base_name}.pdf\" \"$file\" --toc --template eisvogel --listings && evince \"${file_base_name}.pdf\"",
+    "selector": "source.md",
+}
+

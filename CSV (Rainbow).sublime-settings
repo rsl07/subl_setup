@@ -1,0 +1,4 @@
+// These settings override both User and Default settings for the CSV (Rainbow) syntax
+{
+	"hide_minimap": "true"
+}

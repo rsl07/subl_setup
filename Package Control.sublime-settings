@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "http://vip-users.proxy.edf.fr:3131",
+	"installed_packages":
+	[
+		"Anaconda",
+		"Auto Refresh",
+		"AutoFoldCode",
+		"CodeMap",
+		"LaTeXTools",
+		"Markdown Table Formatter",
+		"MarkdownPreview",
+		"MaxPane",
+		"Neon Color Scheme",
+		"Origami",
+		"Outline",
+		"Package Control",
+		"PackageResourceViewer",
+		"Python 3",
+		"rainbow_csv",
+		"Table Editor",
+		"Theme - Midnight",
+	],
+	"in_process_packages":
+	[
+	],
+}
