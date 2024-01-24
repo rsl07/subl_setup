@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+\begin{figure}[ht!]
+\begin{minipage}[c]{0.5\linewidth}
+     \centering \includegraphics[width=10cm]${1:path1}
+     \caption{}
+     \label{}
+\end{minipage}
+\begin{minipage}[c]{0.5\linewidth}
+     \centering \includegraphics[width=10cm]${2:path2}
+     \caption{}
+     \label{}
+     \end{minipage}
+\end{figure}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>!mnp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex, text.html.markdown</scope>
+</snippet>
