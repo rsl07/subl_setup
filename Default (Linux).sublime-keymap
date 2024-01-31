@@ -18,6 +18,11 @@
 	},
 
 
+	// Gitgutter ===============================================================
+
+    { "keys": ["ctrl+shift+enter"], "command": "git_gutter_diff_popup" },
+
+
 	// Origami =================================================================
 
 	{ "keys": ["super+shift+x"], "command": "travel_to_pane",
