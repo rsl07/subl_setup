@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+# debug ---------------------------------------
+import pdb;pdb.set_trace()                    #
+# ---------------------------------------------
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>!pdb</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
+

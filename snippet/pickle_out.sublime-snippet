@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+dict_out = {
+	
+	"${1:key}":${2:object}
+            }
+
+import pickle
+import pathlib
+
+wdir = str(pathlib.Path(__file__).parent.resolve().absolute())+"/"
+
+with open(wdir+'dict_out.pkl','wb') as file:
+    pickle.dump(dict_out,file, protocol=pickle.HIGHEST_PROTOCOL)
+    
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>!pkl</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
+
