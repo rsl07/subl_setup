@@ -1,7 +1,6 @@
 {
 	"extensions":
-	["md",
-	 "note"
+	["note",
 	],
 
 	"word_wrap": "true",

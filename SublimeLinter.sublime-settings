@@ -133,7 +133,10 @@
 
     // Provide extra paths to be searched when locating system executables.
     "paths": {
-        "linux": ["/home/d51680/.conda/envs/py_lionel/bin/python"],
+        "linux": [
+                  "/home/d51680/.conda/envs/py_lionel/bin/python",
+                  "/usr/bin/gfortran"
+                  ],
         "osx": ["/Applications/anaconda3/envs/py_lionel/bin"],
         "windows": []
     },
