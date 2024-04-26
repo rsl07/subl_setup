@@ -123,7 +123,34 @@
             // **Only valid for NodeLinter**
             // If true, will *not* use a globally installed binary
             "disable_if_not_dependency": false
-        }
+        },
+
+        "gfortranfixedform": {
+                "@disable": false,
+                "args": [
+                    "-fdefault-real-8",
+                    "-fdefault-double-8"
+                ],
+                "excludes": []
+            },
+
+        "gfortranmodern": {
+            "@disable": false,
+            "args": [
+                "-fdefault-real-8",
+                "-fdefault-double-8",
+                "-ffree-line-length-none"
+            ],
+            "excludes": [],
+
+            // Lint mode determines when the linter is run. The linter setting
+            // will take precedence over the global setting.
+            "lint_mode": "load_save",
+
+            "selector":"source.f90"
+
+            },
+
     },
 
     // Determines what happens when a linter reports a problem without column.

@@ -18,6 +18,7 @@
 	},
 
 
+
 	// Gitgutter ===============================================================
 
     { "keys": ["ctrl+shift+enter"], "command": "git_gutter_diff_popup" },
@@ -25,23 +26,23 @@
 
 	// Origami =================================================================
 
-	{ "keys": ["super+shift+x"], "command": "travel_to_pane",
+	{ "keys": ["super+d"], "command": "travel_to_pane",
 							     "args": {"direction": "up"} },
 
 	{ "keys": ["super+x"], "command": "travel_to_pane",
 							 "args" : {"direction": "down"} },
 
-	{ "keys": ["super+<"], "command": "travel_to_pane",
+	{ "keys": ["super+c"], "command": "travel_to_pane",
 						     "args" : {"direction": "right"} },
 
-	{ "keys": ["super+shift+<"], "command": "travel_to_pane",
-							 "   args" : {"direction": "left"} },
+	{ "keys": ["super+w"], "command": "travel_to_pane",
+							 "args" : {"direction": "left"} },
 
 
 	{ "keys": ["super+s"], "command": "create_pane",
 						   "args"   : {"direction": "right"} },
 
-	{ "keys": ["super+w"], "command": "create_pane", 
+	{ "keys": ["super+<"], "command": "create_pane", 
 						   "args"   : {"direction": "down"} },
 
  	{ "keys": ["super+q"], "command": "destroy_pane",
@@ -84,6 +85,7 @@
 	// Search and Replace ======================================================
 
 	{ "keys": ["ctrl+r"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+	{ "keys": ["shift+ctrl+enter"], "command": "find_prev" },
 	{ "keys": ["ctrl+enter"], "command": "replace_next" },
 
 

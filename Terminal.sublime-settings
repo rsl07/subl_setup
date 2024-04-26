@@ -1,0 +1,5 @@
+// Terminal Settings - User
+{
+		"terminal": "/usr/bin/terminator",
+
+}

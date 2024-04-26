@@ -145,6 +145,7 @@
 	"remember_open_files":false,
 	"ignored_packages":
 	[
+		"GitGutter",
 		"Python",
 		"Vintage",
 	],

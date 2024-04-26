@@ -21,8 +21,11 @@
 		"PackageResourceViewer",
 		"Python 3",
 		"rainbow_csv",
+		"sublimelint",
 		"SublimeLinter",
 		"Table Editor",
+		"Terminal",
+		"Terminus",
 		"Theme - Midnight",
 	],
 	"in_process_packages":
