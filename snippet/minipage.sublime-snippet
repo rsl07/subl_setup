@@ -10,7 +10,7 @@
      \centering \includegraphics[width=10cm]${2:path2}
      \caption{}
      \label{}
-     \end{minipage}
+\end{minipage}
 \end{figure}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

@@ -19,6 +19,16 @@
 
 
 
+	{ "keys": ["ctrl+q"], "command": "close_window" },
+
+
+	// Terminal  ===============================================================
+
+    { "keys": ["ctrl+t"], "command": "toggle_terminus_panel" },
+
+	{ "keys": ["ctrl+shift+t"], "command": "terminus_open"},
+
+
 	// Gitgutter ===============================================================
 
     { "keys": ["ctrl+shift+enter"], "command": "git_gutter_diff_popup" },
