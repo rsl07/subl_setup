@@ -5,4 +5,8 @@
 	"rulers":[80],
 
 
+	"extensions":
+	[
+		"comm",
+	],
 }

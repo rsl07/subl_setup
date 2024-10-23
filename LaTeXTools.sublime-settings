@@ -134,7 +134,6 @@
 	// (The xcolor package will be present, even if not in this list.)
 	"preview_math_template_packages": [
 		// "\\input{/home/d51680/Code/manuscript/macro.tex}",
-		// "\\input{/home/d51680/Code/csma2024/macro.tex}",
 		"\\input{/home/d51680/Code/ac3d/source/macro.tex}",
 		"\\usepackage{amsmath}",
 		"\\usepackage{amssymb}",

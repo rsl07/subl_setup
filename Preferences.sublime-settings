@@ -1,4 +1,6 @@
 {
+	"draw_white_space": ["selection", "trailing"],
+	"show_minimap": false,
 	"adaptive_dividers": false,
 	"allow_git_home_dir": false,
 	"always_prompt_for_file_reload": false,
@@ -78,14 +80,10 @@
 	"draw_indent_guides": true,
 	"draw_minimap_border": false,
 	"draw_unicode_white_space": "punctuation",
-	"draw_white_space":
-	[
-		"selection"
-	],
 	"enable_hexadecimal_encoding": true,
 	"enable_tab_scrolling": true,
 	"ensure_newline_at_eof_on_save": false,
-	"fade_fold_buttons": true,
+	"fade_fold_buttons": false,
 	"fallback_encoding": "Western (Windows 1252)",
 	"file_exclude_patterns":
 	[
@@ -115,7 +113,7 @@
 	"file_tab_style": "rounded",
 	"find_in_files_max_result_size": 16777216,
 	"find_selected_text": true,
-	"fold_buttons": false,
+	"fold_buttons": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -129,7 +127,7 @@
 	"font_options":
 	[
 	],
-	"font_size": 11,
+	"font_size": 10,
 	"git_diff_target": "index",
 	"gutter": true,
 	"hardware_acceleration": "none",
@@ -145,8 +143,8 @@
 	"remember_open_files":false,
 	"ignored_packages":
 	[
-		"GitGutter",
 		"MarkdownPreview",
+		"ProjectManager",
 		"Python",
 		"Vintage",
 	],

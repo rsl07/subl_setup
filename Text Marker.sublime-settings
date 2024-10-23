@@ -1,0 +1,12 @@
+/*
+	Text Marker user settings in here override the default
+*/
+{
+	"user": {
+
+				"live": true,
+				// "live_color": null,
+
+		
+	}
+}

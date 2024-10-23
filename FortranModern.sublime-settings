@@ -4,4 +4,9 @@
 		"F90",
 		"h",
 	],
+	"rulers":[[90,"dotted"]],
+	"word_wrap": "true",
+	"wrap_width":90,
+	"highlight_line": true,
+
 }

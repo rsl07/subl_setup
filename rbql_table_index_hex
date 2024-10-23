@@ -1,9 +1,3 @@
-/home/d51680/Code/charles/calib_blyth/data/hydro_calib_ASw1_Xsorted_rpm.dat	2c	quoted	
-/home/d51680/Code/charles/calib_blyth/data/aero_calib_selec.dat	2c	quoted	
-/home/d51680/Code/charles/calib_blyth/data/hydro_select.res1	2c	quoted	
-/home/d51680/Code/charles/calib_blyth/data/hydro_select.res2	2c	quoted	
-/home/d51680/Code/charles/calib_blyth/jobs/hydro_select.res1	2c	quoted	
-/home/d51680/Code/charles/calib_blyth/jobs/hydro_select.res2	2c	quoted	
 /home/d51680/Code/charles/calib_blyth/jobs/hydro_select.res3	2c	quoted	
 /home/d51680/Code/charles/calib_blyth/jobs/hydro_select-dir.res3	2c	quoted	
 /home/d51680/Code/charles/calib_blyth/charles_output/vec_Umf0.out	2c	quoted	
@@ -98,3 +92,9 @@
 /home/d51680/Code/charles/calib_blyth/jobs/FAwind_set3_cd_k0.72p1g0.0001.res4	2c	quoted	
 /home/d51680/Code/charles/calib_blyth/jobs/FAwind_set4_cd_k0.72p1g0.0001.res1	2c	quoted	
 /home/d51680/Code/charles/calib_blyth/jobs/4_reshyd4/SSXi_full3_kccm.res1	2c	quoted	
+/home/d51680/dev/codeaster/src/astest/resultat.resu	20	simple	
+/home/d51680/dev/codeaster/src/astest/calc1.resu	20	simple	
+/home/d51680/dev/codeaster/src/astest/calc2.resu	20	simple	
+/home/d51680/Code/fa33896/modes.resu	20	simple	
+/home/d51680/Code/fa33896/base2.resu	20	simple	
+/home/d51680/Code/fa33896/base1.resu	20	simple	

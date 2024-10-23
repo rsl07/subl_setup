@@ -1,0 +1,7 @@
+// overrides settings in ProjectAndWorkspaceManagement/ProjectAndWorkspaceManagement.sublime-settings
+{
+
+	"default_project_path": "/home/d51680/Code/",
+	"workspaces_subpath": ".sublime_workspaces",
+
+}
