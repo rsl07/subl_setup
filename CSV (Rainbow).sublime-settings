@@ -1,4 +1,8 @@
 // These settings override both User and Default settings for the CSV (Rainbow) syntax
 {
-	"hide_minimap": "true"
+	"hide_minimap": "true",
+	"draw_white_space": ["selection"],
+	"fold_buttons": false,
+
+
 }

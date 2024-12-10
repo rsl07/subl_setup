@@ -1,0 +1,6 @@
+// Settings in here override those in "RainbowCSV.sublime-settings"
+
+{
+		"draw_white_space": "none",
+
+}
