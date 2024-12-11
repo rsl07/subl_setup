@@ -1,6 +1,6 @@
 {
 	"extensions":
-	[".csv",".dat"],
+	[".csv",".dat",".out"],
 
 	"draw_white_space": ["selection"],
 
@@ -8,9 +8,9 @@
 
 	"rulers":"none",
 
-	"file_patterns": ["*.dat","*.csv"],
+	"file_patterns": ["*.dat","*.csv","*.out"],
 
-    "selector": ["source.dat","source.csv"],
+    "selector": ["source.dat","source.csv","source.out"],
 
 	"fold_buttons": false,
 

@@ -4,5 +4,9 @@
 	"draw_white_space": ["selection"],
 	"fold_buttons": false,
 
+    "selector": ["source.dat","source.csv","source.out"],
+	"file_patterns": ["*.dat","*.csv","*.out"],
+	"extensions":
+	[".csv",".dat",".out"],
 
 }
