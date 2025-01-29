@@ -127,7 +127,7 @@
 	"font_options":
 	[
 	],
-	"font_size": 10,
+	"font_size": 11,
 	"git_diff_target": "index",
 	"gutter": true,
 	"hardware_acceleration": "none",
@@ -241,4 +241,14 @@
 	"wrap_width": 80,
 	"wrap_width_style": "constant",
 	"enable_table_editor": true,
+	"added_words":
+	[
+		"inclinometers",
+		"dataset",
+		"matmast",
+		"preprocessed",
+		"loadings",
+		"metmast",
+		"Blyth",
+	],
 }
