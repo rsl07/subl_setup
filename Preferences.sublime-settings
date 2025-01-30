@@ -127,7 +127,7 @@
 	"font_options":
 	[
 	],
-	"font_size": 14,
+	"font_size": 10,
 	"git_diff_target": "index",
 	"gutter": true,
 	"hardware_acceleration": "none",
