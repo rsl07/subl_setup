@@ -27,7 +27,11 @@
 		{
 		"rhs_empty": true,
 		"selector": "punctuation.accessor",
-	}
+	},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex",
+		},
 	],
 	"auto_complete_use_history": false,
 	"auto_complete_use_index": true,
@@ -250,5 +254,6 @@
 		"loadings",
 		"metmast",
 		"Blyth",
+		"inclinometer",
 	],
 }
