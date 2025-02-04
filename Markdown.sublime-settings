@@ -1,0 +1,16 @@
+{
+	"extensions":
+	[
+		"md",
+		"note",
+		"notes",
+		"log",
+		"md",
+	],
+	"rulers":
+	[
+		80
+	],
+	"word_wrap": "true",
+	"wrap_width": 80,
+}

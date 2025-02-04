@@ -1,0 +1,40 @@
+{
+	"theme": "darkside",
+
+
+    "default_config": {
+        "linux": true,    // login shell
+    },
+
+
+    "view_settings": {
+        "font_face": "MesloLGS NF",
+    },
+
+    "shell_configs": [
+        {
+            "name": "Bash",
+            "cmd": ["bash", "-i", "-l"],
+            "env": {},
+            "enable": true,
+            "platforms": ["linux", "osx"],
+        },
+        {
+            "name": "Zsh",
+            "cmd": ["zsh", "-i", "-l"],
+            "env": {},
+            "enable": true,
+            "platforms": ["linux", "osx"],
+            "default": true,
+  
+        }
+    ],
+
+    "256color": true,
+
+    "preserve_keys" : [
+        "ctrl+k"   // there are a number of shortcuts with "ctrl+k" prefix.
+        // "ctrl+p"   // to show Go to Anything
+    ],
+
+}

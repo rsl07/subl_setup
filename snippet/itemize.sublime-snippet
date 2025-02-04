@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+\begin{itemize}
+     \item ${1:item1}
+     \item ${2:item2} 
+\end{itemize}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>!ite</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex, text.html.markdown</scope>
+</snippet>

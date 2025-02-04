@@ -1,0 +1,7 @@
+{
+"cmd" : ["/usr/bin/gfortran -g ${file_name} -o ${file_base_name}_debug && ./${file_base_name}_debug"],
+"selector" : "source.f90",
+"working_dir" : "${file_path}",
+"shell" : true,
+"syntax": "Packages/Fortran/grammars/GFortranBuild.sublime-syntax"
+}

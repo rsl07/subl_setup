@@ -1,0 +1,18 @@
+{
+    "shell_cmd": "/home/d51680/Logiciel/anaconda3/envs/py_lionel/bin/python3.7 -OO -u \"$file\"",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+
+    "syntax": "Packages/Markdown/Markdown.sublime-syntax",
+
+    "quiet" : true,
+
+     "env": 
+     {
+        "PYTHONIOENCODING": "utf-8",
+        "PYTHONPATH": "/home/d51680/Code/lib:/home/d51680/Code/",
+        "PYTHONWARNINGS":"ignore"
+    }
+
+
+}

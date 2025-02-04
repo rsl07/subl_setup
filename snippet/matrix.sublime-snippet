@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\mathbb{${1:matrix}}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>!m</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex, text.html.markdown</scope>
+</snippet>

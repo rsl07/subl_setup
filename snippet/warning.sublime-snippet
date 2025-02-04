@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+#!================================!
+#! WARNING: ${1:warning}                          
+#!================================!
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>!w</tabTrigger>
+	<scope>source.python, source.shell</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+# plot ------
+plt.show()  #
+# -----------
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>!p</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
+

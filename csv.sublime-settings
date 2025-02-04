@@ -1,0 +1,17 @@
+{
+	"extensions":
+	[".csv",".dat",".out"],
+
+	"draw_white_space": ["selection"],
+
+	"word_wrap": "false",
+
+	"rulers":"none",
+
+	"file_patterns": ["*.dat","*.csv","*.out"],
+
+    "selector": ["source.dat","source.csv","source.out"],
+
+	"fold_buttons": false,
+
+}

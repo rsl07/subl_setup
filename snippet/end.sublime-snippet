@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[	
+print("\n ***" + str(__file__) + " Completed *** ")
+print("*** Debug Starting ***")
+
+# debug ------------------------------------------------------------------------
+rsl.locals_object(locals()); ipdb.set_trace()                                 #
+# ------------------------------------------------------------------------------
+
+print("*** Debug Finished ***")
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>!end</tabTrigger>
+	<scope>source.python</scope>
+</snippet>

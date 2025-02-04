@@ -1,0 +1,16 @@
+{
+
+
+	"word_wrap": "true",
+	"rulers":[80],
+
+	"show_minimap":false,
+
+	// "always_show_minimap_viewport": false,
+
+
+	"extensions":
+	[
+		"comm",
+	],
+}

@@ -1,0 +1,17 @@
+[
+    // Basic drag select
+    {
+        "button": "button1",
+        "modifiers": ["ctrl"],
+        "count": 2,
+        "press_command": "select_all"
+    },
+    { "button": "button9",
+     "command": "distraction_free_window"
+    },
+
+    { "button": "button8",
+     "command": "create_pane",
+     "args"   : {"direction": "right"} 
+    },
+]

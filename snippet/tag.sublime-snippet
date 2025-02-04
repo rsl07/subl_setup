@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+### tag : ¬${1:tag_name} ###
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>!t</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
