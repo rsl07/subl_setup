@@ -1,7 +1,7 @@
 // overrides settings in ProjectAndWorkspaceManagement/ProjectAndWorkspaceManagement.sublime-settings
 {
 
-	"default_project_path": "/home/d51680/Code/",
+	"default_project_path": "/home/d51680/",
 	"workspaces_subpath": ".sublime_workspaces",
 	"default_gitignore_file_text": "\n#sublime text files\n.sublime_workspaces/\n"
 

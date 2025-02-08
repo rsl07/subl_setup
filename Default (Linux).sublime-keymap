@@ -29,13 +29,16 @@
 
 	{
 		"keys":["altgr+p"],
-		"command": "project_and_workspace_management_new_project"
+		"command": "save_project_as"
+	},
+	{
+		"keys":["altgr+shift+p"],
+		"command": "save_workspace_as"
 	},
 	{
 		"keys":["altgr+n"],
 		"command": "project_and_workspace_management_new_workspace"
 	},
-
 	{
 		"keys":["altgr+o"], "command": "project_and_workspace_management_open_workspace"
 	},
