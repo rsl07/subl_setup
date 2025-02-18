@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-print *, "\$DEBUG\$ ${1:comment}", ${2:variable}
+print *, "¬ DEBUG: ${1:comment}", ${2:variable}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<!-- <tabTrigger>hello</tabTrigger> -->

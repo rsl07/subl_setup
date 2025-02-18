@@ -112,7 +112,9 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.sublime-workspace"
+		"*.sublime-workspace",
+		"*.sublime-project",
+		"*.gitignore",
 	],
 	"file_tab_style": "rounded",
 	"find_in_files_max_result_size": 16777216,
@@ -125,7 +127,8 @@
 		".hg",
 		"CVS",
 		".Trash",
-		".Trash-*"
+		".Trash-*",
+		".sublime_workspaces"
 	],
 	"font_face": "",
 	"font_options":
@@ -155,7 +158,7 @@
 	"ignored_snippets":
 	[
 	],
-	"inactive_sheet_dimming": true,
+	"inactive_sheet_dimming": false,
 	"indent_guide_options":
 	[
 		"draw_active_single"
@@ -224,7 +227,7 @@
 	"sublime_merge_path": "",
 	"tab_completion": false,
 	"tab_size": 4,
-	"theme": "Midnight-hybrid.sublime-theme",
+	"theme": "Default Dark.sublime-theme",
 	"theme_font_options":
 	[
 	],
