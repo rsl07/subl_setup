@@ -11,8 +11,8 @@
 
 	"extensions":
 	[
-		"log",
 		"comm",
 		"export",
+		"log",
 	],
 }
