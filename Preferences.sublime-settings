@@ -114,7 +114,7 @@
 		"*.db",
 		"*.sublime-workspace",
 		"*.sublime-project",
-		"*.gitignore",
+		// "*.gitignore",
 	],
 	"file_tab_style": "rounded",
 	"find_in_files_max_result_size": 16777216,
