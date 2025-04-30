@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		"in"
-	]
+		"in",
+		"par",
+	],
 }
